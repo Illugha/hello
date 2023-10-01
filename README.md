@@ -1,2 +1,2 @@
 # hello
-v 1.0
+print("hello world")
